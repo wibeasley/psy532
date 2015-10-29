@@ -30,7 +30,7 @@ Date  | Theory                   | Read           |Due              | Practice
 21    |2) Logic of Research      |                |                 |  | 
 24    |                          | ITSL 2         |HM 1        (10) |Data Exploration. Graphs.  |   
 28    |3) Anatomy of GLM         |                |                 |  |     	
-Oct 2 |                          |ITSL 3          |HM 2        (10) |Multiple Regression. Simulation.  |   
+**Oct** 2 |                          |ITSL 3          |HM 2        (10) |Multiple Regression. Simulation.  |   
 05    |EXAM I. Test              |                |EXAM I      (50) |  |     
 08    |EXAM I. Analysis          |                |                 |  |     	
 12    |**Thanksgiving**          |                |                 |  |    
@@ -39,7 +39,7 @@ Oct 2 |                          |ITSL 3          |HM 2        (10) |Multiple Re
 22    |Graphs & Models: Boston   |                |                 |  |    
 26    |Handling model objects    |ITSL 7.1-2, 7.5 |                 |Polynomial. Nonlinear.GAM.  | 
 29    |Detecting nonlinearity with graphs |            |HM 4        (10) |Academic Drop Deadline (Oct 31)  | 
-Nov 02|History  Of Graphs and Models                          |Wickham (2014)  |Paper model (10) |*Tidy Data Workshop*   |      	
+**Nov** 02|History  Of Graphs and Models                          |Wickham (2014)  |Paper model (10) |*Tidy Data Workshop*   |      	
 05    |Exam II. Test             |                |EXAM II     (100)|  |   
 09    |**Reading Week**          |                |                 |  |   
 12    |EXAM II. Analysis         |                |                 |  |   
@@ -48,7 +48,7 @@ Nov 02|History  Of Graphs and Models                          |Wickham (2014)  |
 23    |                          |                |                 |Production: Slides  |   
 26    |**No class**              |                |                 | **No class** |   
 30    |                          |                |Report       (40)|Production: Poster  |   
-Dec 03|                          |                |Slides       (20)|**Student Presentations**  |   
+**Dec** 03|                          |                |Slides       (20)|**Student Presentations**  |   
 07    |*Rest Day*                |                |                 |*Rest Day*   |   
 10    |                          |                |Poster       (30)|**Student Posters**   |   
 
